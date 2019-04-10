@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@appbaseio/reactivesearch": "^3.0.0-rc.0",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react": "16.3.2",
+    "react-dom": "16.3.2"
   }
 }
